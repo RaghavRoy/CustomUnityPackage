@@ -12,8 +12,7 @@
     "com.unity.xr.openxr": "1.8.2",
     "com.unity.xr.arfoundation": "4.2.7",
     "com.unity.xr.interaction.toolkit": "2.3.2",
-    "com.unity.inputsystem": "1.7.0",
-    "git.ankit.qol_utilities": "https://github.com/AnkitTorenzo/unity_qol_utils.git"
+    "com.unity.inputsystem": "1.7.0"
   },
   "keywords": [
     "keyword1",
