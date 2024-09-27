@@ -1,6 +1,6 @@
 {
   "name": "com.jiotesseract.jioxsdk",
-  "version": "0.0.8",
+  "version": "1.0.1",
   "displayName": "Jio X SDK",
   "description": "This is an Jio X sdk with all the VR components are present to help develop VR apps that will show real immersive experience",
   "unity": "2019.1",
@@ -12,8 +12,7 @@
     "com.unity.xr.openxr": "1.8.2",
     "com.unity.xr.arfoundation": "4.2.7",
     "com.unity.xr.interaction.toolkit": "2.3.2",
-    "com.unity.inputsystem": "1.7.0",
-    "git.ankit.qol_utilities": "0.0.3"
+    "com.unity.inputsystem": "1.7.0"
   },
   "keywords": [
     "keyword1",
@@ -30,7 +29,7 @@
     {
       "displayName": "Jio X Example",
       "description": "Contains a simple example of Jio XR Origin and how you interact in the VR scene",
-      "path": "Samples~/JIOX,JIOX22"
+      "path": "Samples~/JIOX"
     },
     {
       "displayName": "URP Shaders",
