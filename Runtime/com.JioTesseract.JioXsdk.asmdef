@@ -1,6 +1,6 @@
 {
     "name": "com.JioTesseract.JioXsdk.Runtime",
-    "rootNamespace": "QOL.Runtime",
+    "rootNamespace": "QOL.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"
