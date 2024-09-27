@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace QOL.Editor
+namespace QOL.Runtime
 {
     public class RuntimeExample2 : MonoBehaviour
     {
