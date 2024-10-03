@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "git.ankit.qol_utilities": "http://github.com/AnkitTorenzo/unity_qol_utils.git",
-    "com.unity.package-manager-ui": "2.1.2",
-    "com.unity.some-default-packages-from-upm": "1.0.0"
-  }
-}
