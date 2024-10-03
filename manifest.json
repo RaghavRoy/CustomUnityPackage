@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "git.ankit.qol_utilities": "http://github.com/AnkitTorenzo/unity_qol_utils.git"
+  }
+}
